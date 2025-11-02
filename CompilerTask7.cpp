@@ -2,8 +2,9 @@
 #include <string>
 using namespace std;
 
-int main() {
-    string firstName, lastName;
+int main()
+ {
+    string firstName, lastName;//declare
 
     cout << "Enter your first name: ";
     cin >> firstName;
